@@ -72,16 +72,10 @@ The project also serves as a **SaaS concept prototype** and a **real-world showc
 
 ---
 
-## 🔒 Code Privacy
-
-⚠️ **The source code is private.**  
-This project includes personal and sensitive partner data and is intended for internal use only.  
-For this reason, only a public showcase of the concept and design is shared here.
-
----
+## 📸 Demo & Screenshots
 
 <details>
-<summary>📸 Demo & Screenshots</summary>
+<summary>Click to view demo & screenshots</summary>
 
 ### Dashboard Overview
 ![Dashboard](https://via.placeholder.com/800x450.png?text=PartnR+Dashboard)
@@ -120,9 +114,25 @@ For more information, demo access, or collaboration:
 
 ---
 
+## ⚠️ Legal & Privacy Notice
+
+This project is an **internal and personal tool** intended solely for the private use of its creator.  
+The application contains **sensitive information related to professional partnerships** and is therefore **not publicly accessible**.
+
+The data used within this platform is managed in compliance with the **General Data Protection Regulation (GDPR)**.  
+No personal information, database content, or confidential partner data is exposed, stored, or distributed through this public repository.
+
+This GitHub repository is a **showcase only**, created exclusively to present the project’s concept, technical architecture, and design, without revealing any sensitive data or source code.
+
+For any questions or demo requests, please contact:
+
+- [LinkedIn – Abishan Arulneethan](https://www.linkedin.com/in/abishan-arulneethan)
+- 📧 rudramusicpro@gmail.com
+
+---
+
 ## ⭐️ Quick Preview
 
 > *A modern, intuitive, and efficient platform to manage professional partnerships — designed for internal use, built with care, and focused on optimizing business relationships.*
 
 ---
-
