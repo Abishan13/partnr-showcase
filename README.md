@@ -1,6 +1,6 @@
 <div align="center">
 
-# PartnR
+# 🤝 PartnR
 
 ### Professional Partnership Management Platform
 
@@ -23,30 +23,30 @@
 <details open>
 <summary><b>Multi-step Partner Onboarding</b></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d735ad0e-8994-4601-a1bf-913fdd64b9df" width="100%" alt="Add Partner – Step 1" />
-  <img src="https://github.com/user-attachments/assets/a2727430-4d12-4448-af5b-5229517cf8f4" width="100%" alt="Add Partner – Step 2" />
-  <img src="https://github.com/user-attachments/assets/81f7b796-86f4-4654-a053-864d53fb82e6" width="100%" alt="Add Partner – Step 3" />
-</p>
-</details>
-
-<details>
-<summary><b>Advanced Filtering & Search System</b></summary>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8cf1a8c8-ca52-42c1-b8ee-67527aa1d63e" width="100%" alt="Filters Panel" />
-</p>
-</details>
-
-<details>
-<summary><b>Partner Profile Edition</b></summary>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/366f0053-95ac-4883-96fd-0f77a0a6ce98" width="100%" alt="Edit Partner" />
+  <img src="https://github.com/user-attachments/assets/a2727430-4d12-4448-af5b-5229517cf8f4" width="100%" alt="Add Partner – Step 1" />
+  <img src="https://github.com/user-attachments/assets/81f7b796-86f4-4654-a053-864d53fb82e6" width="100%" alt="Add Partner – Step 2" />
+  <img src="https://github.com/user-attachments/assets/8cf1a8c8-ca52-42c1-b8ee-67527aa1d63e" width="100%" alt="Add Partner – Step 3" />
 </p>
 </details>
 
 <details>
 <summary><b>Partner List Overview</b></summary>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f735eae-526d-49a8-8b06-965c0ea170ce" width="100%" alt="Partner List" />
+  <img src="https://github.com/user-attachments/assets/d735ad0e-8994-4601-a1bf-913fdd64b9df" width="100%" alt="Partner List" />
+</p>
+</details>
+
+<details>
+<summary><b>Advanced Filtering & Search System</b></summary>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/366f0053-95ac-4883-96fd-0f77a0a6ce98" width="100%" alt="Filters Panel" />
+</p>
+</details>
+
+<details>
+<summary><b>Partner Profile Edition</b></summary>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f735eae-526d-49a8-8b06-965c0ea170ce" width="100%" alt="Edit Partner" />
 </p>
 </details>
 
@@ -129,10 +129,6 @@ This project serves as both an **internal tool** developed for personal use and 
 <div class="roadmap">
   <div>📊 <b>Analytics Dashboard</b> – Visualize partnership performance</div>
   <div>📱 <b>Mobile App Version</b> – Manage on the go</div>
-  <div>📅 <b>Calendar Integration</b> – Schedule follow-ups</div>
-  <div>💬 <b>Internal Messaging</b> – Streamline communications</div>
-  <div>📝 <b>Contract Management</b> – Store legal documents</div>
-  <div>🔔 <b>Automated Reminders</b> – Never miss follow-ups</div>
   <div>🌐 <b>Multi-language Support</b> – Global partnership management</div>
 </div>
 
